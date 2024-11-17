@@ -1,0 +1,3336 @@
+
+
+        {
+            "Country": "World",
+            "Total CO2 emissions from fuel combustion": " 3 4116.8",
+            "Sectors": {
+                "Other energy industry own use": "  2287.1",
+                "Manufacturing industries and construction": " 1 2855.5",
+                "Transport": {
+                    "Total": "  8176.1",
+                    "Road": "  6072.9"
+                },
+                "Residential": {
+                    "Total": "  5764.5"
+                },
+                "Commercial and public services": "  3177.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Annex I Parties ",
+            "Total CO2 emissions from fuel combustion": " 1 1548.6",
+            "Sectors": {
+                "Other energy industry own use": "  902.6",
+                "Manufacturing industries and construction": "  2766.7",
+                "Transport": {
+                    "Total": "  3516.0",
+                    "Road": "  2940.3"
+                },
+                "Residential": {
+                    "Total": "  2332.5"
+                },
+                "Commercial and public services": "  1654.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "   Annex II Parties   ",
+            "Total CO2 emissions from fuel combustion": "  8765.5",
+            "Sectors": {
+                "Other energy industry own use": "  694.7",
+                "Manufacturing industries and construction": "  1860.4",
+                "Transport": {
+                    "Total": "  2939.2",
+                    "Road": "  2516.3"
+                },
+                "Residential": {
+                    "Total": "  1657.5"
+                },
+                "Commercial and public services": "  1336.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "      North America      ",
+            "Total CO2 emissions from fuel combustion": "  5130.9",
+            "Sectors": {
+                "Other energy industry own use": "  434.3",
+                "Manufacturing industries and construction": "  888.0",
+                "Transport": {
+                    "Total": "  1870.9",
+                    "Road": "  1553.4"
+                },
+                "Residential": {
+                    "Total": "  958.3"
+                },
+                "Commercial and public services": "  808.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "      Europe      ",
+            "Total CO2 emissions from fuel combustion": "  2277.4",
+            "Sectors": {
+                "Other energy industry own use": "  163.8",
+                "Manufacturing industries and construction": "  539.9",
+                "Transport": {
+                    "Total": "  765.0",
+                    "Road": "  707.5"
+                },
+                "Residential": {
+                    "Total": "  458.7"
+                },
+                "Commercial and public services": "  272.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "      Asia Oceania",
+            "Total CO2 emissions from fuel combustion": "  1357.1",
+            "Sectors": {
+                "Other energy industry own use": "  96.5",
+                "Manufacturing industries and construction": "  432.5",
+                "Transport": {
+                    "Total": "  303.3",
+                    "Road": "  255.4"
+                },
+                "Residential": {
+                    "Total": "  240.5"
+                },
+                "Commercial and public services": "  255.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "   Annex I EIT   ",
+            "Total CO2 emissions from fuel combustion": "  2385.3",
+            "Sectors": {
+                "Other energy industry own use": "  192.0",
+                "Manufacturing industries and construction": "  766.7",
+                "Transport": {
+                    "Total": "  483.3",
+                    "Road": "  336.7"
+                },
+                "Residential": {
+                    "Total": "  604.6"
+                },
+                "Commercial and public services": "  255.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Non-Annex I Parties ",
+            "Total CO2 emissions from fuel combustion": " 2 1437.4",
+            "Sectors": {
+                "Other energy industry own use": "  1384.5",
+                "Manufacturing industries and construction": " 1 0088.8",
+                "Transport": {
+                    "Total": "  3529.3",
+                    "Road": "  3132.5"
+                },
+                "Residential": {
+                    "Total": "  3432.0"
+                },
+                "Commercial and public services": "  1523.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Annex B Kyoto Parties",
+            "Total CO2 emissions from fuel combustion": "  3628.1",
+            "Sectors": {
+                "Other energy industry own use": "  298.6",
+                "Manufacturing industries and construction": "  897.9",
+                "Transport": {
+                    "Total": "  1068.4",
+                    "Road": "  975.3"
+                },
+                "Residential": {
+                    "Total": "  757.8"
+                },
+                "Commercial and public services": "  466.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "OECD Total",
+            "Total CO2 emissions from fuel combustion": " 1 0796.7",
+            "Sectors": {
+                "Other energy industry own use": "  847.6",
+                "Manufacturing industries and construction": "  2511.6",
+                "Transport": {
+                    "Total": "  3490.5",
+                    "Road": "  3041.1"
+                },
+                "Residential": {
+                    "Total": "  1991.4"
+                },
+                "Commercial and public services": "  1599.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Non-OECD Total",
+            "Total CO2 emissions from fuel combustion": " 2 2189.3",
+            "Sectors": {
+                "Other energy industry own use": "  1439.6",
+                "Manufacturing industries and construction": " 1 0343.9",
+                "Transport": {
+                    "Total": "  3554.8",
+                    "Road": "  3031.7"
+                },
+                "Residential": {
+                    "Total": "  3773.1"
+                },
+                "Commercial and public services": "  1578.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Region/Country/Economy",
+            "Total CO2 emissions from fuel combustion": "Total CO2 emissions \nfrom fuel combustion",
+            "Sectors": {
+                "Other energy industry own use": "Other energy \nindustry own use*",
+                "Manufacturing industries and construction": "Manuf. industries \''d construction",
+                "Transport": {
+                    "Total": "Transport",
+                    "Road": "of which: road"
+                },
+                "Residential": {
+                    "Total": "Residential"
+                },
+                "Commercial and public services": "Commercial and public services"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Canada",
+            "Total CO2 emissions from fuel combustion": "  523.3",
+            "Sectors": {
+                "Other energy industry own use": "  130.6",
+                "Manufacturing industries and construction": "  92.4",
+                "Transport": {
+                    "Total": "  165.1",
+                    "Road": "  136.3"
+                },
+                "Residential": {
+                    "Total": "  61.0"
+                },
+                "Commercial and public services": "  53.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Chile",
+            "Total CO2 emissions from fuel combustion": "  86.6",
+            "Sectors": {
+                "Other energy industry own use": "  2.1",
+                "Manufacturing industries and construction": "  33.2",
+                "Transport": {
+                    "Total": "  31.7",
+                    "Road": "  28.9"
+                },
+                "Residential": {
+                    "Total": "  10.1"
+                },
+                "Commercial and public services": "  6.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Colombia",
+            "Total CO2 emissions from fuel combustion": "  73.3",
+            "Sectors": {
+                "Other energy industry own use": "  4.9",
+                "Manufacturing industries and construction": "  14.0",
+                "Transport": {
+                    "Total": "  36.2",
+                    "Road": "  35.8"
+                },
+                "Residential": {
+                    "Total": "  12.3"
+                },
+                "Commercial and public services": "  4.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Costa Rica",
+            "Total CO2 emissions from fuel combustion": "  7.6",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.2",
+                "Transport": {
+                    "Total": "  5.7",
+                    "Road": "  5.7"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Mexico",
+            "Total CO2 emissions from fuel combustion": "  379.7",
+            "Sectors": {
+                "Other energy industry own use": "  46.9",
+                "Manufacturing industries and construction": "  118.9",
+                "Transport": {
+                    "Total": "  130.5",
+                    "Road": "  126.2"
+                },
+                "Residential": {
+                    "Total": "  48.4"
+                },
+                "Commercial and public services": "  12.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "United States",
+            "Total CO2 emissions from fuel combustion": "  4607.6",
+            "Sectors": {
+                "Other energy industry own use": "  303.7",
+                "Manufacturing industries and construction": "  795.6",
+                "Transport": {
+                    "Total": "  1705.9",
+                    "Road": "  1417.1"
+                },
+                "Residential": {
+                    "Total": "  897.3"
+                },
+                "Commercial and public services": "  755.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "OECD Americas",
+            "Total CO2 emissions from fuel combustion": "  5678.1",
+            "Sectors": {
+                "Other energy industry own use": "  488.1",
+                "Manufacturing industries and construction": "  1055.4",
+                "Transport": {
+                    "Total": "  2075.1",
+                    "Road": "  1750.1"
+                },
+                "Residential": {
+                    "Total": "  1029.4"
+                },
+                "Commercial and public services": "  832.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Australia",
+            "Total CO2 emissions from fuel combustion": "  354.8",
+            "Sectors": {
+                "Other energy industry own use": "  55.8",
+                "Manufacturing industries and construction": "  93.1",
+                "Transport": {
+                    "Total": "  93.7",
+                    "Road": "  75.6"
+                },
+                "Residential": {
+                    "Total": "  55.7"
+                },
+                "Commercial and public services": "  48.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Israel",
+            "Total CO2 emissions from fuel combustion": "  59.6",
+            "Sectors": {
+                "Other energy industry own use": "  2.3",
+                "Manufacturing industries and construction": "  9.8",
+                "Transport": {
+                    "Total": "  18.7",
+                    "Road": "  18.4"
+                },
+                "Residential": {
+                    "Total": "  12.1"
+                },
+                "Commercial and public services": "  11.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Japan",
+            "Total CO2 emissions from fuel combustion": "  973.7",
+            "Sectors": {
+                "Other energy industry own use": "  40.2",
+                "Manufacturing industries and construction": "  332.2",
+                "Transport": {
+                    "Total": "  194.9",
+                    "Road": "  166.3"
+                },
+                "Residential": {
+                    "Total": "  182.7"
+                },
+                "Commercial and public services": "  204.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Korea",
+            "Total CO2 emissions from fuel combustion": "  549.3",
+            "Sectors": {
+                "Other energy industry own use": "  50.3",
+                "Manufacturing industries and construction": "  209.8",
+                "Transport": {
+                    "Total": "  107.6",
+                    "Road": "  100.3"
+                },
+                "Residential": {
+                    "Total": "  73.8"
+                },
+                "Commercial and public services": "  93.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "New Zealand",
+            "Total CO2 emissions from fuel combustion": "  28.7",
+            "Sectors": {
+                "Other energy industry own use": "  0.6",
+                "Manufacturing industries and construction": "  7.3",
+                "Transport": {
+                    "Total": "  14.7",
+                    "Road": "  13.6"
+                },
+                "Residential": {
+                    "Total": "  2.1"
+                },
+                "Commercial and public services": "  2.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "OECD Asia Oceania",
+            "Total CO2 emissions from fuel combustion": "  1966.0",
+            "Sectors": {
+                "Other energy industry own use": "  149.1",
+                "Manufacturing industries and construction": "  652.1",
+                "Transport": {
+                    "Total": "  429.6",
+                    "Road": "  374.2"
+                },
+                "Residential": {
+                    "Total": "  326.4"
+                },
+                "Commercial and public services": "  359.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Austria",
+            "Total CO2 emissions from fuel combustion": "  56.8",
+            "Sectors": {
+                "Other energy industry own use": "  6.6",
+                "Manufacturing industries and construction": "  14.4",
+                "Transport": {
+                    "Total": "  21.5",
+                    "Road": "  20.8"
+                },
+                "Residential": {
+                    "Total": "  9.5"
+                },
+                "Commercial and public services": "  3.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Belgium",
+            "Total CO2 emissions from fuel combustion": "  78.8",
+            "Sectors": {
+                "Other energy industry own use": "  5.7",
+                "Manufacturing industries and construction": "  21.9",
+                "Transport": {
+                    "Total": "  23.5",
+                    "Road": "  22.7"
+                },
+                "Residential": {
+                    "Total": "  16.4"
+                },
+                "Commercial and public services": "  9.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Czech Republic",
+            "Total CO2 emissions from fuel combustion": "  90.7",
+            "Sectors": {
+                "Other energy industry own use": "  4.3",
+                "Manufacturing industries and construction": "  29.2",
+                "Transport": {
+                    "Total": "  20.3",
+                    "Road": "  19.0"
+                },
+                "Residential": {
+                    "Total": "  20.9"
+                },
+                "Commercial and public services": "  14.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Denmark",
+            "Total CO2 emissions from fuel combustion": "  26.8",
+            "Sectors": {
+                "Other energy industry own use": "  1.8",
+                "Manufacturing industries and construction": "  4.9",
+                "Transport": {
+                    "Total": "  11.2",
+                    "Road": "  10.5"
+                },
+                "Residential": {
+                    "Total": "  4.6"
+                },
+                "Commercial and public services": "  2.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Estonia",
+            "Total CO2 emissions from fuel combustion": "  9.9",
+            "Sectors": {
+                "Other energy industry own use": "  0.2",
+                "Manufacturing industries and construction": "  2.0",
+                "Transport": {
+                    "Total": "  2.5",
+                    "Road": "  2.4"
+                },
+                "Residential": {
+                    "Total": "  2.2"
+                },
+                "Commercial and public services": "  2.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Finland",
+            "Total CO2 emissions from fuel combustion": "  34.0",
+            "Sectors": {
+                "Other energy industry own use": "  3.0",
+                "Manufacturing industries and construction": "  10.5",
+                "Transport": {
+                    "Total": "  9.7",
+                    "Road": "  9.2"
+                },
+                "Residential": {
+                    "Total": "  4.9"
+                },
+                "Commercial and public services": "  3.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "France",
+            "Total CO2 emissions from fuel combustion": "  283.0",
+            "Sectors": {
+                "Other energy industry own use": "  18.8",
+                "Manufacturing industries and construction": "  52.0",
+                "Transport": {
+                    "Total": "  124.1",
+                    "Road": "  116.8"
+                },
+                "Residential": {
+                    "Total": "  46.1"
+                },
+                "Commercial and public services": "  28.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Germany",
+            "Total CO2 emissions from fuel combustion": "  612.0",
+            "Sectors": {
+                "Other energy industry own use": "  29.3",
+                "Manufacturing industries and construction": "  189.6",
+                "Transport": {
+                    "Total": "  146.6",
+                    "Road": "  137.9"
+                },
+                "Residential": {
+                    "Total": "  153.3"
+                },
+                "Commercial and public services": "  83.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Greece",
+            "Total CO2 emissions from fuel combustion": "  50.8",
+            "Sectors": {
+                "Other energy industry own use": "  4.7",
+                "Manufacturing industries and construction": "  8.6",
+                "Transport": {
+                    "Total": "  17.7",
+                    "Road": "  15.0"
+                },
+                "Residential": {
+                    "Total": "  11.2"
+                },
+                "Commercial and public services": "  6.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Hungary",
+            "Total CO2 emissions from fuel combustion": "  42.5",
+            "Sectors": {
+                "Other energy industry own use": "  2.0",
+                "Manufacturing industries and construction": "  9.8",
+                "Transport": {
+                    "Total": "  14.9",
+                    "Road": "  14.5"
+                },
+                "Residential": {
+                    "Total": "  10.3"
+                },
+                "Commercial and public services": "  4.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Iceland",
+            "Total CO2 emissions from fuel combustion": "  1.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.1",
+                "Transport": {
+                    "Total": "  0.9",
+                    "Road": "  0.9"
+                },
+                "Residential": {
+                    "Total": "  0.0"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Ireland",
+            "Total CO2 emissions from fuel combustion": "  33.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.4",
+                "Manufacturing industries and construction": "  5.9",
+                "Transport": {
+                    "Total": "  11.3",
+                    "Road": "  10.8"
+                },
+                "Residential": {
+                    "Total": "  8.3"
+                },
+                "Commercial and public services": "  6.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Italy",
+            "Total CO2 emissions from fuel combustion": "  310.3",
+            "Sectors": {
+                "Other energy industry own use": "  17.7",
+                "Manufacturing industries and construction": "  73.4",
+                "Transport": {
+                    "Total": "  106.5",
+                    "Road": "  99.0"
+                },
+                "Residential": {
+                    "Total": "  60.8"
+                },
+                "Commercial and public services": "  42.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Latvia",
+            "Total CO2 emissions from fuel combustion": "  6.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.8",
+                "Transport": {
+                    "Total": "  3.1",
+                    "Road": "  3.0"
+                },
+                "Residential": {
+                    "Total": "  0.9"
+                },
+                "Commercial and public services": "  0.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Lithuania",
+            "Total CO2 emissions from fuel combustion": "  11.0",
+            "Sectors": {
+                "Other energy industry own use": "  1.4",
+                "Manufacturing industries and construction": "  1.4",
+                "Transport": {
+                    "Total": "  6.0",
+                    "Road": "  5.8"
+                },
+                "Residential": {
+                    "Total": "  1.4"
+                },
+                "Commercial and public services": "  0.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Luxembourg",
+            "Total CO2 emissions from fuel combustion": "  6.7",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.8",
+                "Transport": {
+                    "Total": "  4.3",
+                    "Road": "  4.3"
+                },
+                "Residential": {
+                    "Total": "  0.9"
+                },
+                "Commercial and public services": "  0.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Netherlands",
+            "Total CO2 emissions from fuel combustion": "  121.5",
+            "Sectors": {
+                "Other energy industry own use": "  13.5",
+                "Manufacturing industries and construction": "  34.9",
+                "Transport": {
+                    "Total": "  26.1",
+                    "Road": "  24.7"
+                },
+                "Residential": {
+                    "Total": "  21.1"
+                },
+                "Commercial and public services": "  18.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Norway",
+            "Total CO2 emissions from fuel combustion": "  35.6",
+            "Sectors": {
+                "Other energy industry own use": "  11.6",
+                "Manufacturing industries and construction": "  6.8",
+                "Transport": {
+                    "Total": "  13.8",
+                    "Road": "  8.5"
+                },
+                "Residential": {
+                    "Total": "  0.5"
+                },
+                "Commercial and public services": "  1.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Poland",
+            "Total CO2 emissions from fuel combustion": "  285.0",
+            "Sectors": {
+                "Other energy industry own use": "  19.1",
+                "Manufacturing industries and construction": "  70.0",
+                "Transport": {
+                    "Total": "  69.9",
+                    "Road": "  66.9"
+                },
+                "Residential": {
+                    "Total": "  66.5"
+                },
+                "Commercial and public services": "  49.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Portugal",
+            "Total CO2 emissions from fuel combustion": "  35.7",
+            "Sectors": {
+                "Other energy industry own use": "  2.7",
+                "Manufacturing industries and construction": "  8.2",
+                "Transport": {
+                    "Total": "  16.5",
+                    "Road": "  15.7"
+                },
+                "Residential": {
+                    "Total": "  3.6"
+                },
+                "Commercial and public services": "  3.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Slovak Republic",
+            "Total CO2 emissions from fuel combustion": "  28.1",
+            "Sectors": {
+                "Other energy industry own use": "  3.5",
+                "Manufacturing industries and construction": "  9.6",
+                "Transport": {
+                    "Total": "  7.6",
+                    "Road": "  7.3"
+                },
+                "Residential": {
+                    "Total": "  4.5"
+                },
+                "Commercial and public services": "  2.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Slovenia",
+            "Total CO2 emissions from fuel combustion": "  12.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  3.1",
+                "Transport": {
+                    "Total": "  5.8",
+                    "Road": "  5.7"
+                },
+                "Residential": {
+                    "Total": "  1.7"
+                },
+                "Commercial and public services": "  1.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Spain",
+            "Total CO2 emissions from fuel combustion": "  217.1",
+            "Sectors": {
+                "Other energy industry own use": "  19.4",
+                "Manufacturing industries and construction": "  42.1",
+                "Transport": {
+                    "Total": "  93.6",
+                    "Road": "  81.7"
+                },
+                "Residential": {
+                    "Total": "  30.1"
+                },
+                "Commercial and public services": "  22.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Sweden",
+            "Total CO2 emissions from fuel combustion": "  32.5",
+            "Sectors": {
+                "Other energy industry own use": "  3.6",
+                "Manufacturing industries and construction": "  8.4",
+                "Transport": {
+                    "Total": "  13.9",
+                    "Road": "  13.1"
+                },
+                "Residential": {
+                    "Total": "  3.5"
+                },
+                "Commercial and public services": "  2.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Switzerland",
+            "Total CO2 emissions from fuel combustion": "  31.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.4",
+                "Manufacturing industries and construction": "  5.3",
+                "Transport": {
+                    "Total": "  14.6",
+                    "Road": "  14.2"
+                },
+                "Residential": {
+                    "Total": "  7.3"
+                },
+                "Commercial and public services": "  3.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Republic of T\u00fcrkiye",
+            "Total CO2 emissions from fuel combustion": "  390.0",
+            "Sectors": {
+                "Other energy industry own use": "  16.0",
+                "Manufacturing industries and construction": "  138.4",
+                "Transport": {
+                    "Total": "  91.0",
+                    "Road": "  84.8"
+                },
+                "Residential": {
+                    "Total": "  68.6"
+                },
+                "Commercial and public services": "  59.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "United Kingdom",
+            "Total CO2 emissions from fuel combustion": "  309.4",
+            "Sectors": {
+                "Other energy industry own use": "  24.8",
+                "Manufacturing industries and construction": "  52.0",
+                "Transport": {
+                    "Total": "  109.0",
+                    "Road": "  101.7"
+                },
+                "Residential": {
+                    "Total": "  76.7"
+                },
+                "Commercial and public services": "  33.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "OECD Europe",
+            "Total CO2 emissions from fuel combustion": "  3152.6",
+            "Sectors": {
+                "Other energy industry own use": "  210.3",
+                "Manufacturing industries and construction": "  804.1",
+                "Transport": {
+                    "Total": "  985.9",
+                    "Road": "  916.9"
+                },
+                "Residential": {
+                    "Total": "  635.6"
+                },
+                "Commercial and public services": "  407.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Albania",
+            "Total CO2 emissions from fuel combustion": "  3.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  1.0",
+                "Transport": {
+                    "Total": "  1.7",
+                    "Road": "  1.6"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Armenia",
+            "Total CO2 emissions from fuel combustion": "  7.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  1.1",
+                "Transport": {
+                    "Total": "  2.4",
+                    "Road": "  2.3"
+                },
+                "Residential": {
+                    "Total": "  2.2"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Azerbaijan",
+            "Total CO2 emissions from fuel combustion": "  36.4",
+            "Sectors": {
+                "Other energy industry own use": "  2.7",
+                "Manufacturing industries and construction": "  5.8",
+                "Transport": {
+                    "Total": "  9.3",
+                    "Road": "  8.4"
+                },
+                "Residential": {
+                    "Total": "  11.8"
+                },
+                "Commercial and public services": "  4.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Belarus",
+            "Total CO2 emissions from fuel combustion": "  50.5",
+            "Sectors": {
+                "Other energy industry own use": "  4.6",
+                "Manufacturing industries and construction": "  12.8",
+                "Transport": {
+                    "Total": "  10.4",
+                    "Road": "  8.9"
+                },
+                "Residential": {
+                    "Total": "  13.8"
+                },
+                "Commercial and public services": "  5.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Bosnia and Herzegovina",
+            "Total CO2 emissions from fuel combustion": "  20.6",
+            "Sectors": {
+                "Other energy industry own use": "  1.2",
+                "Manufacturing industries and construction": "  4.9",
+                "Transport": {
+                    "Total": "  4.1",
+                    "Road": "  4.0"
+                },
+                "Residential": {
+                    "Total": "  6.6"
+                },
+                "Commercial and public services": "  3.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Bulgaria",
+            "Total CO2 emissions from fuel combustion": "  42.8",
+            "Sectors": {
+                "Other energy industry own use": "  2.6",
+                "Manufacturing industries and construction": "  12.2",
+                "Transport": {
+                    "Total": "  10.0",
+                    "Road": "  9.4"
+                },
+                "Residential": {
+                    "Total": "  10.3"
+                },
+                "Commercial and public services": "  7.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Croatia",
+            "Total CO2 emissions from fuel combustion": "  15.7",
+            "Sectors": {
+                "Other energy industry own use": "  0.9",
+                "Manufacturing industries and construction": "  3.0",
+                "Transport": {
+                    "Total": "  6.7",
+                    "Road": "  6.4"
+                },
+                "Residential": {
+                    "Total": "  2.7"
+                },
+                "Commercial and public services": "  1.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Cyprus",
+            "Total CO2 emissions from fuel combustion": "  6.1",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.9",
+                "Transport": {
+                    "Total": "  1.9",
+                    "Road": "  1.9"
+                },
+                "Residential": {
+                    "Total": "  1.4"
+                },
+                "Commercial and public services": "  1.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Georgia",
+            "Total CO2 emissions from fuel combustion": "  11.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  2.3",
+                "Transport": {
+                    "Total": "  4.4",
+                    "Road": "  3.7"
+                },
+                "Residential": {
+                    "Total": "  3.0"
+                },
+                "Commercial and public services": "  0.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Gibraltar",
+            "Total CO2 emissions from fuel combustion": "  0.6",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "-",
+                "Transport": {
+                    "Total": "  0.5",
+                    "Road": "  0.5"
+                },
+                "Residential": {
+                    "Total": "  0.0"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Kazakhstan",
+            "Total CO2 emissions from fuel combustion": "  225.9",
+            "Sectors": {
+                "Other energy industry own use": "  33.2",
+                "Manufacturing industries and construction": "  63.5",
+                "Transport": {
+                    "Total": "  25.8",
+                    "Road": "  20.1"
+                },
+                "Residential": {
+                    "Total": "  62.8"
+                },
+                "Commercial and public services": "  35.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Kosovo",
+            "Total CO2 emissions from fuel combustion": "  8.5",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  1.9",
+                "Transport": {
+                    "Total": "  1.3",
+                    "Road": "  1.3"
+                },
+                "Residential": {
+                    "Total": "  3.7"
+                },
+                "Commercial and public services": "  1.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Kyrgyzstan",
+            "Total CO2 emissions from fuel combustion": "  9.1",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.8",
+                "Transport": {
+                    "Total": "  1.5",
+                    "Road": "  1.4"
+                },
+                "Residential": {
+                    "Total": "  5.8"
+                },
+                "Commercial and public services": "  1.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Malta",
+            "Total CO2 emissions from fuel combustion": "  1.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.2",
+                "Transport": {
+                    "Total": "  0.7",
+                    "Road": "  0.7"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Republic of Moldova",
+            "Total CO2 emissions from fuel combustion": "  7.5",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  1.5",
+                "Transport": {
+                    "Total": "  2.3",
+                    "Road": "  2.2"
+                },
+                "Residential": {
+                    "Total": "  2.2"
+                },
+                "Commercial and public services": "  1.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Montenegro",
+            "Total CO2 emissions from fuel combustion": "  2.6",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.3",
+                "Transport": {
+                    "Total": "  0.9",
+                    "Road": "  0.9"
+                },
+                "Residential": {
+                    "Total": "  0.8"
+                },
+                "Commercial and public services": "  0.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Republic of North Macedonia",
+            "Total CO2 emissions from fuel combustion": "  7.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  1.8",
+                "Transport": {
+                    "Total": "  2.3",
+                    "Road": "  2.3"
+                },
+                "Residential": {
+                    "Total": "  2.3"
+                },
+                "Commercial and public services": "  1.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Romania",
+            "Total CO2 emissions from fuel combustion": "  66.5",
+            "Sectors": {
+                "Other energy industry own use": "  3.7",
+                "Manufacturing industries and construction": "  18.7",
+                "Transport": {
+                    "Total": "  21.2",
+                    "Road": "  20.1"
+                },
+                "Residential": {
+                    "Total": "  14.3"
+                },
+                "Commercial and public services": "  5.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Russian Federation",
+            "Total CO2 emissions from fuel combustion": "  1623.2",
+            "Sectors": {
+                "Other energy industry own use": "  146.1",
+                "Manufacturing industries and construction": "  566.5",
+                "Transport": {
+                    "Total": "  302.0",
+                    "Road": "  167.0"
+                },
+                "Residential": {
+                    "Total": "  425.7"
+                },
+                "Commercial and public services": "  147.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Serbia",
+            "Total CO2 emissions from fuel combustion": "  45.0",
+            "Sectors": {
+                "Other energy industry own use": "  2.8",
+                "Manufacturing industries and construction": "  12.3",
+                "Transport": {
+                    "Total": "  8.4",
+                    "Road": "  8.0"
+                },
+                "Residential": {
+                    "Total": "  14.7"
+                },
+                "Commercial and public services": "  6.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Tajikistan",
+            "Total CO2 emissions from fuel combustion": "  7.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  1.7",
+                "Transport": {
+                    "Total": "  2.2",
+                    "Road": "  2.2"
+                },
+                "Residential": {
+                    "Total": "  2.0"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Turkmenistan",
+            "Total CO2 emissions from fuel combustion": "  95.0",
+            "Sectors": {
+                "Other energy industry own use": "  9.2",
+                "Manufacturing industries and construction": "  23.4",
+                "Transport": {
+                    "Total": "  11.7",
+                    "Road": "  7.1"
+                },
+                "Residential": {
+                    "Total": "  4.8"
+                },
+                "Commercial and public services": "  24.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Ukraine",
+            "Total CO2 emissions from fuel combustion": "  101.3",
+            "Sectors": {
+                "Other energy industry own use": "  3.6",
+                "Manufacturing industries and construction": "  27.8",
+                "Transport": {
+                    "Total": "  3.1",
+                    "Road": "  0.0"
+                },
+                "Residential": {
+                    "Total": "  29.3"
+                },
+                "Commercial and public services": "  13.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Uzbekistan",
+            "Total CO2 emissions from fuel combustion": "  113.4",
+            "Sectors": {
+                "Other energy industry own use": "  6.6",
+                "Manufacturing industries and construction": "  29.9",
+                "Transport": {
+                    "Total": "  18.7",
+                    "Road": "  16.4"
+                },
+                "Residential": {
+                    "Total": "  39.3"
+                },
+                "Commercial and public services": "  11.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Former Soviet Union (if no detail)",
+            "Total CO2 emissions from fuel combustion": "x",
+            "Sectors": {
+                "Other energy industry own use": "x",
+                "Manufacturing industries and construction": "x",
+                "Transport": {
+                    "Total": "x",
+                    "Road": "x"
+                },
+                "Residential": {
+                    "Total": "x"
+                },
+                "Commercial and public services": "x"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Former Yugoslavia (if no detail)",
+            "Total CO2 emissions from fuel combustion": "x",
+            "Sectors": {
+                "Other energy industry own use": "x",
+                "Manufacturing industries and construction": "x",
+                "Transport": {
+                    "Total": "x",
+                    "Road": "x"
+                },
+                "Residential": {
+                    "Total": "x"
+                },
+                "Commercial and public services": "x"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Non-OECD Europe and Eurasia",
+            "Total CO2 emissions from fuel combustion": "  2509.6",
+            "Sectors": {
+                "Other energy industry own use": "  217.4",
+                "Manufacturing industries and construction": "  794.2",
+                "Transport": {
+                    "Total": "  453.3",
+                    "Road": "  297.1"
+                },
+                "Residential": {
+                    "Total": "  660.2"
+                },
+                "Commercial and public services": "  274.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Algeria",
+            "Total CO2 emissions from fuel combustion": "  151.0",
+            "Sectors": {
+                "Other energy industry own use": "  12.6",
+                "Manufacturing industries and construction": "  31.0",
+                "Transport": {
+                    "Total": "  46.4",
+                    "Road": "  42.8"
+                },
+                "Residential": {
+                    "Total": "  45.4"
+                },
+                "Commercial and public services": "  3.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Angola",
+            "Total CO2 emissions from fuel combustion": "  21.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.9",
+                "Manufacturing industries and construction": "  3.0",
+                "Transport": {
+                    "Total": "  8.3",
+                    "Road": "  8.2"
+                },
+                "Residential": {
+                    "Total": "  7.4"
+                },
+                "Commercial and public services": "  1.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Benin",
+            "Total CO2 emissions from fuel combustion": "  5.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.7",
+                "Transport": {
+                    "Total": "  4.4",
+                    "Road": "  4.4"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Botswana",
+            "Total CO2 emissions from fuel combustion": "  6.5",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.6",
+                "Transport": {
+                    "Total": "  2.3",
+                    "Road": "  2.2"
+                },
+                "Residential": {
+                    "Total": "  1.3"
+                },
+                "Commercial and public services": "  0.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Cameroon",
+            "Total CO2 emissions from fuel combustion": "  6.7",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.4",
+                "Transport": {
+                    "Total": "  3.7",
+                    "Road": "  3.7"
+                },
+                "Residential": {
+                    "Total": "  1.0"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Congo",
+            "Total CO2 emissions from fuel combustion": "  4.4",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.3",
+                "Transport": {
+                    "Total": "  1.3",
+                    "Road": "  1.1"
+                },
+                "Residential": {
+                    "Total": "  1.5"
+                },
+                "Commercial and public services": "  1.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "C\u00f4te d'Ivoire",
+            "Total CO2 emissions from fuel combustion": "  16.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.4",
+                "Manufacturing industries and construction": "  3.0",
+                "Transport": {
+                    "Total": "  7.4",
+                    "Road": "  7.0"
+                },
+                "Residential": {
+                    "Total": "  3.8"
+                },
+                "Commercial and public services": "  0.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Dem. Rep. of Congo",
+            "Total CO2 emissions from fuel combustion": "  4.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.0",
+                "Transport": {
+                    "Total": "  4.8",
+                    "Road": "  3.9"
+                },
+                "Residential": {
+                    "Total": "  0.1"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Egypt",
+            "Total CO2 emissions from fuel combustion": "  217.8",
+            "Sectors": {
+                "Other energy industry own use": "  25.5",
+                "Manufacturing industries and construction": "  59.3",
+                "Transport": {
+                    "Total": "  56.8",
+                    "Road": "  53.7"
+                },
+                "Residential": {
+                    "Total": "  47.0"
+                },
+                "Commercial and public services": "  21.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Equatorial Guinea",
+            "Total CO2 emissions from fuel combustion": "  3.2",
+            "Sectors": {
+                "Other energy industry own use": "  0.9",
+                "Manufacturing industries and construction": "  1.4",
+                "Transport": {
+                    "Total": "  0.4",
+                    "Road": "  0.4"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Eritrea",
+            "Total CO2 emissions from fuel combustion": "  0.7",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.1",
+                "Transport": {
+                    "Total": "  0.2",
+                    "Road": "  0.2"
+                },
+                "Residential": {
+                    "Total": "  0.2"
+                },
+                "Commercial and public services": "  0.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Kingdom of Eswatini",
+            "Total CO2 emissions from fuel combustion": "  1.1",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.2",
+                "Transport": {
+                    "Total": "  0.9",
+                    "Road": "  0.8"
+                },
+                "Residential": {
+                    "Total": "  0.0"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Ethiopia",
+            "Total CO2 emissions from fuel combustion": "  14.6",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  5.9",
+                "Transport": {
+                    "Total": "  7.3",
+                    "Road": "  7.2"
+                },
+                "Residential": {
+                    "Total": "  0.1"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Gabon",
+            "Total CO2 emissions from fuel combustion": "  2.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.3",
+                "Manufacturing industries and construction": "  0.9",
+                "Transport": {
+                    "Total": "  0.2",
+                    "Road": "  0.2"
+                },
+                "Residential": {
+                    "Total": "  0.9"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Ghana",
+            "Total CO2 emissions from fuel combustion": "  19.9",
+            "Sectors": {
+                "Other energy industry own use": "  0.2",
+                "Manufacturing industries and construction": "  5.0",
+                "Transport": {
+                    "Total": "  9.9",
+                    "Road": "  9.2"
+                },
+                "Residential": {
+                    "Total": "  3.3"
+                },
+                "Commercial and public services": "  1.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Kenya",
+            "Total CO2 emissions from fuel combustion": "  17.8",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  4.4",
+                "Transport": {
+                    "Total": "  10.7",
+                    "Road": "  10.2"
+                },
+                "Residential": {
+                    "Total": "  1.6"
+                },
+                "Commercial and public services": "  0.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Libya",
+            "Total CO2 emissions from fuel combustion": "  44.7",
+            "Sectors": {
+                "Other energy industry own use": "  1.6",
+                "Manufacturing industries and construction": "  3.3",
+                "Transport": {
+                    "Total": "  17.5",
+                    "Road": "  17.5"
+                },
+                "Residential": {
+                    "Total": "  12.8"
+                },
+                "Commercial and public services": "  2.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Madagascar",
+            "Total CO2 emissions from fuel combustion": "  4.3",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.3",
+                "Transport": {
+                    "Total": "  1.5",
+                    "Road": "  1.4"
+                },
+                "Residential": {
+                    "Total": "  0.7"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Mauritius",
+            "Total CO2 emissions from fuel combustion": "  4.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  1.0",
+                "Transport": {
+                    "Total": "  1.2",
+                    "Road": "  1.1"
+                },
+                "Residential": {
+                    "Total": "  0.9"
+                },
+                "Commercial and public services": "  0.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Morocco",
+            "Total CO2 emissions from fuel combustion": "  67.2",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  18.3",
+                "Transport": {
+                    "Total": "  17.8",
+                    "Road": "  17.4"
+                },
+                "Residential": {
+                    "Total": "  18.7"
+                },
+                "Commercial and public services": "  6.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Mozambique",
+            "Total CO2 emissions from fuel combustion": "  7.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.5",
+                "Manufacturing industries and construction": "  2.4",
+                "Transport": {
+                    "Total": "  4.3",
+                    "Road": "  4.1"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Namibia",
+            "Total CO2 emissions from fuel combustion": "  3.2",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.2",
+                "Transport": {
+                    "Total": "  2.0",
+                    "Road": "  1.9"
+                },
+                "Residential": {
+                    "Total": "  0.0"
+                },
+                "Commercial and public services": "  0.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Niger",
+            "Total CO2 emissions from fuel combustion": "  2.9",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  0.4",
+                "Transport": {
+                    "Total": "  1.5",
+                    "Road": "  1.5"
+                },
+                "Residential": {
+                    "Total": "  0.6"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Nigeria",
+            "Total CO2 emissions from fuel combustion": "  100.4",
+            "Sectors": {
+                "Other energy industry own use": "  9.5",
+                "Manufacturing industries and construction": "  14.1",
+                "Transport": {
+                    "Total": "  60.8",
+                    "Road": "  60.2"
+                },
+                "Residential": {
+                    "Total": "  11.7"
+                },
+                "Commercial and public services": "  3.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Rwanda",
+            "Total CO2 emissions from fuel combustion": "  1.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.5",
+                "Transport": {
+                    "Total": "  0.8",
+                    "Road": "  0.8"
+                },
+                "Residential": {
+                    "Total": "  0.2"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Senegal",
+            "Total CO2 emissions from fuel combustion": "  11.3",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  2.7",
+                "Transport": {
+                    "Total": "  4.9",
+                    "Road": "  4.6"
+                },
+                "Residential": {
+                    "Total": "  2.4"
+                },
+                "Commercial and public services": "  0.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "South Africa",
+            "Total CO2 emissions from fuel combustion": "  394.1",
+            "Sectors": {
+                "Other energy industry own use": "  60.7",
+                "Manufacturing industries and construction": "  159.6",
+                "Transport": {
+                    "Total": "  50.3",
+                    "Road": "  44.7"
+                },
+                "Residential": {
+                    "Total": "  64.1"
+                },
+                "Commercial and public services": "  45.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "South Sudan",
+            "Total CO2 emissions from fuel combustion": "  1.7",
+            "Sectors": {
+                "Other energy industry own use": "  0.2",
+                "Manufacturing industries and construction": "  0.2",
+                "Transport": {
+                    "Total": "  0.9",
+                    "Road": "  0.9"
+                },
+                "Residential": {
+                    "Total": "  0.2"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Sudan",
+            "Total CO2 emissions from fuel combustion": "  18.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  1.6",
+                "Transport": {
+                    "Total": "  12.1",
+                    "Road": "  11.9"
+                },
+                "Residential": {
+                    "Total": "  2.7"
+                },
+                "Commercial and public services": "  0.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "United Rep. of Tanzania",
+            "Total CO2 emissions from fuel combustion": "  17.5",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  4.0",
+                "Transport": {
+                    "Total": "  10.0",
+                    "Road": "  9.8"
+                },
+                "Residential": {
+                    "Total": "  2.3"
+                },
+                "Commercial and public services": "  1.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Togo",
+            "Total CO2 emissions from fuel combustion": "  1.9",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.3",
+                "Transport": {
+                    "Total": "  1.2",
+                    "Road": "  1.2"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Tunisia",
+            "Total CO2 emissions from fuel combustion": "  26.4",
+            "Sectors": {
+                "Other energy industry own use": "  0.7",
+                "Manufacturing industries and construction": "  7.5",
+                "Transport": {
+                    "Total": "  8.2",
+                    "Road": "  7.3"
+                },
+                "Residential": {
+                    "Total": "  5.1"
+                },
+                "Commercial and public services": "  3.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Uganda",
+            "Total CO2 emissions from fuel combustion": "  6.0",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.6",
+                "Transport": {
+                    "Total": "  3.7",
+                    "Road": "  3.5"
+                },
+                "Residential": {
+                    "Total": "  0.1"
+                },
+                "Commercial and public services": "  0.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Zambia",
+            "Total CO2 emissions from fuel combustion": "  9.0",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  4.7",
+                "Transport": {
+                    "Total": "  2.5",
+                    "Road": "  2.3"
+                },
+                "Residential": {
+                    "Total": "  1.0"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Zimbabwe",
+            "Total CO2 emissions from fuel combustion": "  10.1",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  4.0",
+                "Transport": {
+                    "Total": "  2.2",
+                    "Road": "  2.0"
+                },
+                "Residential": {
+                    "Total": "  1.6"
+                },
+                "Commercial and public services": "  1.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Other Africa",
+            "Total CO2 emissions from fuel combustion": "  35.5",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  8.1",
+                "Transport": {
+                    "Total": "  19.8",
+                    "Road": "  18.5"
+                },
+                "Residential": {
+                    "Total": "  3.3"
+                },
+                "Commercial and public services": "  1.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Africa",
+            "Total CO2 emissions from fuel combustion": "  1262.3",
+            "Sectors": {
+                "Other energy industry own use": "  114.4",
+                "Manufacturing industries and construction": "  354.0",
+                "Transport": {
+                    "Total": "  388.1",
+                    "Road": "  368.1"
+                },
+                "Residential": {
+                    "Total": "  243.3"
+                },
+                "Commercial and public services": "  103.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Bangladesh",
+            "Total CO2 emissions from fuel combustion": "  103.9",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  43.6",
+                "Transport": {
+                    "Total": "  13.9",
+                    "Road": "  10.6"
+                },
+                "Residential": {
+                    "Total": "  34.4"
+                },
+                "Commercial and public services": "  5.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Brunei Darussalam",
+            "Total CO2 emissions from fuel combustion": "  9.1",
+            "Sectors": {
+                "Other energy industry own use": "  3.3",
+                "Manufacturing industries and construction": "  1.8",
+                "Transport": {
+                    "Total": "  1.2",
+                    "Road": "  1.2"
+                },
+                "Residential": {
+                    "Total": "  1.3"
+                },
+                "Commercial and public services": "  1.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Cambodia",
+            "Total CO2 emissions from fuel combustion": "  14.7",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  4.0",
+                "Transport": {
+                    "Total": "  6.8",
+                    "Road": "  5.6"
+                },
+                "Residential": {
+                    "Total": "  1.8"
+                },
+                "Commercial and public services": "  1.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "DPR of Korea",
+            "Total CO2 emissions from fuel combustion": "  56.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  37.7",
+                "Transport": {
+                    "Total": "  4.9",
+                    "Road": "  1.0"
+                },
+                "Residential": {
+                    "Total": "  6.5"
+                },
+                "Commercial and public services": "  2.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "India",
+            "Total CO2 emissions from fuel combustion": "  2517.0",
+            "Sectors": {
+                "Other energy industry own use": "  67.5",
+                "Manufacturing industries and construction": "  1164.8",
+                "Transport": {
+                    "Total": "  347.4",
+                    "Road": "  298.2"
+                },
+                "Residential": {
+                    "Total": "  440.8"
+                },
+                "Commercial and public services": "  134.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Indonesia",
+            "Total CO2 emissions from fuel combustion": "  651.7",
+            "Sectors": {
+                "Other energy industry own use": "  17.5",
+                "Manufacturing industries and construction": "  295.6",
+                "Transport": {
+                    "Total": "  146.9",
+                    "Road": "  130.2"
+                },
+                "Residential": {
+                    "Total": "  125.1"
+                },
+                "Commercial and public services": "  61.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Lao People's Democratic Republic",
+            "Total CO2 emissions from fuel combustion": "  18.8",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  10.7",
+                "Transport": {
+                    "Total": "  2.7",
+                    "Road": "  2.5"
+                },
+                "Residential": {
+                    "Total": "  3.4"
+                },
+                "Commercial and public services": "  1.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Malaysia",
+            "Total CO2 emissions from fuel combustion": "  241.1",
+            "Sectors": {
+                "Other energy industry own use": "  25.9",
+                "Manufacturing industries and construction": "  93.5",
+                "Transport": {
+                    "Total": "  54.0",
+                    "Road": "  52.6"
+                },
+                "Residential": {
+                    "Total": "  29.3"
+                },
+                "Commercial and public services": "  34.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Mongolia",
+            "Total CO2 emissions from fuel combustion": "  23.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  9.2",
+                "Transport": {
+                    "Total": "  3.0",
+                    "Road": "  2.3"
+                },
+                "Residential": {
+                    "Total": "  5.7"
+                },
+                "Commercial and public services": "  2.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Myanmar",
+            "Total CO2 emissions from fuel combustion": "  25.9",
+            "Sectors": {
+                "Other energy industry own use": "  1.0",
+                "Manufacturing industries and construction": "  4.6",
+                "Transport": {
+                    "Total": "  13.0",
+                    "Road": "  12.6"
+                },
+                "Residential": {
+                    "Total": "  1.6"
+                },
+                "Commercial and public services": "  2.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Nepal",
+            "Total CO2 emissions from fuel combustion": "  12.8",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  5.9",
+                "Transport": {
+                    "Total": "  4.8",
+                    "Road": "  4.7"
+                },
+                "Residential": {
+                    "Total": "  1.3"
+                },
+                "Commercial and public services": "  0.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Pakistan",
+            "Total CO2 emissions from fuel combustion": "  201.3",
+            "Sectors": {
+                "Other energy industry own use": "  1.4",
+                "Manufacturing industries and construction": "  71.5",
+                "Transport": {
+                    "Total": "  57.5",
+                    "Road": "  55.9"
+                },
+                "Residential": {
+                    "Total": "  52.3"
+                },
+                "Commercial and public services": "  11.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Philippines",
+            "Total CO2 emissions from fuel combustion": "  137.5",
+            "Sectors": {
+                "Other energy industry own use": "  1.3",
+                "Manufacturing industries and construction": "  37.6",
+                "Transport": {
+                    "Total": "  35.8",
+                    "Road": "  31.7"
+                },
+                "Residential": {
+                    "Total": "  33.5"
+                },
+                "Commercial and public services": "  26.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Singapore",
+            "Total CO2 emissions from fuel combustion": "  46.6",
+            "Sectors": {
+                "Other energy industry own use": "  4.7",
+                "Manufacturing industries and construction": "  21.8",
+                "Transport": {
+                    "Total": "  7.2",
+                    "Road": "  5.8"
+                },
+                "Residential": {
+                    "Total": "  3.3"
+                },
+                "Commercial and public services": "  9.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Sri Lanka",
+            "Total CO2 emissions from fuel combustion": "  18.4",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  3.2",
+                "Transport": {
+                    "Total": "  8.8",
+                    "Road": "  8.6"
+                },
+                "Residential": {
+                    "Total": "  3.9"
+                },
+                "Commercial and public services": "  2.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Chinese Taipei",
+            "Total CO2 emissions from fuel combustion": "  269.5",
+            "Sectors": {
+                "Other energy industry own use": "  24.7",
+                "Manufacturing industries and construction": "  133.6",
+                "Transport": {
+                    "Total": "  39.6",
+                    "Road": "  38.0"
+                },
+                "Residential": {
+                    "Total": "  35.1"
+                },
+                "Commercial and public services": "  29.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Thailand",
+            "Total CO2 emissions from fuel combustion": "  250.0",
+            "Sectors": {
+                "Other energy industry own use": "  14.3",
+                "Manufacturing industries and construction": "  95.3",
+                "Transport": {
+                    "Total": "  78.1",
+                    "Road": "  75.0"
+                },
+                "Residential": {
+                    "Total": "  28.7"
+                },
+                "Commercial and public services": "  23.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Viet Nam",
+            "Total CO2 emissions from fuel combustion": "  286.6",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  162.3",
+                "Transport": {
+                    "Total": "  44.1",
+                    "Road": "  37.9"
+                },
+                "Residential": {
+                    "Total": "  50.3"
+                },
+                "Commercial and public services": "  17.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Other Asia",
+            "Total CO2 emissions from fuel combustion": "  29.4",
+            "Sectors": {
+                "Other energy industry own use": "  0.6",
+                "Manufacturing industries and construction": "  9.3",
+                "Transport": {
+                    "Total": "  11.3",
+                    "Road": "  9.3"
+                },
+                "Residential": {
+                    "Total": "  5.0"
+                },
+                "Commercial and public services": "  2.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Asia (excl. China)",
+            "Total CO2 emissions from fuel combustion": "  4914.5",
+            "Sectors": {
+                "Other energy industry own use": "  162.3",
+                "Manufacturing industries and construction": "  2205.9",
+                "Transport": {
+                    "Total": "  881.0",
+                    "Road": "  783.9"
+                },
+                "Residential": {
+                    "Total": "  863.3"
+                },
+                "Commercial and public services": "  371.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "People's Rep. of China",
+            "Total CO2 emissions from fuel combustion": " 1 0613.2",
+            "Sectors": {
+                "Other energy industry own use": "  697.4",
+                "Manufacturing industries and construction": "  6212.8",
+                "Transport": {
+                    "Total": "  1002.5",
+                    "Road": "  788.7"
+                },
+                "Residential": {
+                    "Total": "  1417.1"
+                },
+                "Commercial and public services": "  506.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Hong Kong, China",
+            "Total CO2 emissions from fuel combustion": "  31.1",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.4",
+                "Transport": {
+                    "Total": "  6.4",
+                    "Road": "  5.6"
+                },
+                "Residential": {
+                    "Total": "  7.5"
+                },
+                "Commercial and public services": "  15.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "China (incl. Hong Kong, China)",
+            "Total CO2 emissions from fuel combustion": " 1 0644.3",
+            "Sectors": {
+                "Other energy industry own use": "  697.4",
+                "Manufacturing industries and construction": "  6214.3",
+                "Transport": {
+                    "Total": "  1009.0",
+                    "Road": "  794.4"
+                },
+                "Residential": {
+                    "Total": "  1424.6"
+                },
+                "Commercial and public services": "  522.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Argentina",
+            "Total CO2 emissions from fuel combustion": "  174.3",
+            "Sectors": {
+                "Other energy industry own use": "  15.6",
+                "Manufacturing industries and construction": "  37.3",
+                "Transport": {
+                    "Total": "  51.0",
+                    "Road": "  47.0"
+                },
+                "Residential": {
+                    "Total": "  43.0"
+                },
+                "Commercial and public services": "  14.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Bolivia",
+            "Total CO2 emissions from fuel combustion": "  21.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.9",
+                "Manufacturing industries and construction": "  2.9",
+                "Transport": {
+                    "Total": "  12.3",
+                    "Road": "  12.0"
+                },
+                "Residential": {
+                    "Total": "  3.1"
+                },
+                "Commercial and public services": "  1.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Brazil",
+            "Total CO2 emissions from fuel combustion": "  413.9",
+            "Sectors": {
+                "Other energy industry own use": "  23.6",
+                "Manufacturing industries and construction": "  108.2",
+                "Transport": {
+                    "Total": "  212.8",
+                    "Road": "  194.6"
+                },
+                "Residential": {
+                    "Total": "  31.5"
+                },
+                "Commercial and public services": "  14.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Cuba",
+            "Total CO2 emissions from fuel combustion": "  19.2",
+            "Sectors": {
+                "Other energy industry own use": "  0.5",
+                "Manufacturing industries and construction": "  6.7",
+                "Transport": {
+                    "Total": "  1.4",
+                    "Road": "  1.2"
+                },
+                "Residential": {
+                    "Total": "  6.8"
+                },
+                "Commercial and public services": "  2.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Cura\u00e7ao",
+            "Total CO2 emissions from fuel combustion": "  2.3",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.6",
+                "Transport": {
+                    "Total": "  1.2",
+                    "Road": "  1.2"
+                },
+                "Residential": {
+                    "Total": "  0.3"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Dominican Republic",
+            "Total CO2 emissions from fuel combustion": "  29.2",
+            "Sectors": {
+                "Other energy industry own use": "  0.2",
+                "Manufacturing industries and construction": "  9.8",
+                "Transport": {
+                    "Total": "  8.7",
+                    "Road": "  7.2"
+                },
+                "Residential": {
+                    "Total": "  5.6"
+                },
+                "Commercial and public services": "  3.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Ecuador",
+            "Total CO2 emissions from fuel combustion": "  38.4",
+            "Sectors": {
+                "Other energy industry own use": "  1.7",
+                "Manufacturing industries and construction": "  6.6",
+                "Transport": {
+                    "Total": "  20.5",
+                    "Road": "  19.2"
+                },
+                "Residential": {
+                    "Total": "  4.3"
+                },
+                "Commercial and public services": "  2.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "El Salvador",
+            "Total CO2 emissions from fuel combustion": "  7.8",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  2.5",
+                "Transport": {
+                    "Total": "  4.1",
+                    "Road": "  4.1"
+                },
+                "Residential": {
+                    "Total": "  1.0"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Guatemala",
+            "Total CO2 emissions from fuel combustion": "  17.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.2",
+                "Manufacturing industries and construction": "  4.4",
+                "Transport": {
+                    "Total": "  10.0",
+                    "Road": "  10.0"
+                },
+                "Residential": {
+                    "Total": "  1.9"
+                },
+                "Commercial and public services": "  0.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Guyana",
+            "Total CO2 emissions from fuel combustion": "  3.1",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.2",
+                "Transport": {
+                    "Total": "  1.1",
+                    "Road": "  1.1"
+                },
+                "Residential": {
+                    "Total": "  0.5"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Haiti",
+            "Total CO2 emissions from fuel combustion": "  3.0",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.7",
+                "Transport": {
+                    "Total": "  1.4",
+                    "Road": "  1.4"
+                },
+                "Residential": {
+                    "Total": "  0.9"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Honduras",
+            "Total CO2 emissions from fuel combustion": "  9.9",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  2.5",
+                "Transport": {
+                    "Total": "  4.6",
+                    "Road": "  4.6"
+                },
+                "Residential": {
+                    "Total": "  1.5"
+                },
+                "Commercial and public services": "  1.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Jamaica",
+            "Total CO2 emissions from fuel combustion": "  7.1",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  2.7",
+                "Transport": {
+                    "Total": "  2.6",
+                    "Road": "  2.5"
+                },
+                "Residential": {
+                    "Total": "  1.0"
+                },
+                "Commercial and public services": "  0.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Nicaragua",
+            "Total CO2 emissions from fuel combustion": "  4.9",
+            "Sectors": {
+                "Other energy industry own use": "  0.1",
+                "Manufacturing industries and construction": "  0.9",
+                "Transport": {
+                    "Total": "  2.4",
+                    "Road": "  2.2"
+                },
+                "Residential": {
+                    "Total": "  0.5"
+                },
+                "Commercial and public services": "  0.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Panama",
+            "Total CO2 emissions from fuel combustion": "  11.1",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  2.1",
+                "Transport": {
+                    "Total": "  5.6",
+                    "Road": "  5.5"
+                },
+                "Residential": {
+                    "Total": "  1.4"
+                },
+                "Commercial and public services": "  2.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Paraguay",
+            "Total CO2 emissions from fuel combustion": "  7.4",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  0.3",
+                "Transport": {
+                    "Total": "  6.1",
+                    "Road": "  6.1"
+                },
+                "Residential": {
+                    "Total": "  0.2"
+                },
+                "Commercial and public services": "  0.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Peru",
+            "Total CO2 emissions from fuel combustion": "  56.8",
+            "Sectors": {
+                "Other energy industry own use": "  2.7",
+                "Manufacturing industries and construction": "  17.5",
+                "Transport": {
+                    "Total": "  26.8",
+                    "Road": "  25.9"
+                },
+                "Residential": {
+                    "Total": "  5.5"
+                },
+                "Commercial and public services": "  3.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Suriname",
+            "Total CO2 emissions from fuel combustion": "  2.8",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  0.7",
+                "Transport": {
+                    "Total": "  0.9",
+                    "Road": "  0.5"
+                },
+                "Residential": {
+                    "Total": "  0.5"
+                },
+                "Commercial and public services": "  0.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Trinidad and Tobago",
+            "Total CO2 emissions from fuel combustion": "  13.7",
+            "Sectors": {
+                "Other energy industry own use": "  3.6",
+                "Manufacturing industries and construction": "  5.1",
+                "Transport": {
+                    "Total": "  2.6",
+                    "Road": "  2.4"
+                },
+                "Residential": {
+                    "Total": "  1.9"
+                },
+                "Commercial and public services": "  0.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Uruguay",
+            "Total CO2 emissions from fuel combustion": "  7.2",
+            "Sectors": {
+                "Other energy industry own use": "  0.4",
+                "Manufacturing industries and construction": "  1.2",
+                "Transport": {
+                    "Total": "  4.1",
+                    "Road": "  4.1"
+                },
+                "Residential": {
+                    "Total": "  0.7"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Venezuela",
+            "Total CO2 emissions from fuel combustion": "  63.6",
+            "Sectors": {
+                "Other energy industry own use": "  18.3",
+                "Manufacturing industries and construction": "  18.9",
+                "Transport": {
+                    "Total": "  14.7",
+                    "Road": "  14.4"
+                },
+                "Residential": {
+                    "Total": "  6.6"
+                },
+                "Commercial and public services": "  4.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Other Non-OECD Americas",
+            "Total CO2 emissions from fuel combustion": "  10.6",
+            "Sectors": {
+                "Other energy industry own use": "  0.0",
+                "Manufacturing industries and construction": "  2.0",
+                "Transport": {
+                    "Total": "  3.6",
+                    "Road": "  3.0"
+                },
+                "Residential": {
+                    "Total": "  2.5"
+                },
+                "Commercial and public services": "  2.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Non-OECD Americas",
+            "Total CO2 emissions from fuel combustion": "  924.9",
+            "Sectors": {
+                "Other energy industry own use": "  67.8",
+                "Manufacturing industries and construction": "  234.8",
+                "Transport": {
+                    "Total": "  398.7",
+                    "Road": "  370.3"
+                },
+                "Residential": {
+                    "Total": "  121.6"
+                },
+                "Commercial and public services": "  56.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Bahrain",
+            "Total CO2 emissions from fuel combustion": "  34.4",
+            "Sectors": {
+                "Other energy industry own use": "  3.2",
+                "Manufacturing industries and construction": "  16.0",
+                "Transport": {
+                    "Total": "  3.8",
+                    "Road": "  3.7"
+                },
+                "Residential": {
+                    "Total": "  6.5"
+                },
+                "Commercial and public services": "  4.8"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Islamic Rep. of Iran",
+            "Total CO2 emissions from fuel combustion": "  696.4",
+            "Sectors": {
+                "Other energy industry own use": "  54.7",
+                "Manufacturing industries and construction": "  201.8",
+                "Transport": {
+                    "Total": "  142.6",
+                    "Road": "  140.1"
+                },
+                "Residential": {
+                    "Total": "  196.2"
+                },
+                "Commercial and public services": "  51.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Iraq",
+            "Total CO2 emissions from fuel combustion": "  170.2",
+            "Sectors": {
+                "Other energy industry own use": "  14.5",
+                "Manufacturing industries and construction": "  24.5",
+                "Transport": {
+                    "Total": "  40.9",
+                    "Road": "  40.9"
+                },
+                "Residential": {
+                    "Total": "  60.2"
+                },
+                "Commercial and public services": "  21.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Jordan",
+            "Total CO2 emissions from fuel combustion": "  21.4",
+            "Sectors": {
+                "Other energy industry own use": "  0.2",
+                "Manufacturing industries and construction": "  4.0",
+                "Transport": {
+                    "Total": "  7.8",
+                    "Road": "  7.8"
+                },
+                "Residential": {
+                    "Total": "  5.6"
+                },
+                "Commercial and public services": "  1.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Kuwait",
+            "Total CO2 emissions from fuel combustion": "  94.1",
+            "Sectors": {
+                "Other energy industry own use": "  18.7",
+                "Manufacturing industries and construction": "  24.0",
+                "Transport": {
+                    "Total": "  17.2",
+                    "Road": "  17.2"
+                },
+                "Residential": {
+                    "Total": "  21.5"
+                },
+                "Commercial and public services": "  11.7"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Lebanon",
+            "Total CO2 emissions from fuel combustion": "  9.4",
+            "Sectors": {
+                "Other energy industry own use": "-",
+                "Manufacturing industries and construction": "  1.2",
+                "Transport": {
+                    "Total": "  6.4",
+                    "Road": "  6.4"
+                },
+                "Residential": {
+                    "Total": "  1.2"
+                },
+                "Commercial and public services": "  0.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Oman",
+            "Total CO2 emissions from fuel combustion": "  74.9",
+            "Sectors": {
+                "Other energy industry own use": "  11.8",
+                "Manufacturing industries and construction": "  16.5",
+                "Transport": {
+                    "Total": "  13.3",
+                    "Road": "  13.2"
+                },
+                "Residential": {
+                    "Total": "  7.6"
+                },
+                "Commercial and public services": "  22.9"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Qatar",
+            "Total CO2 emissions from fuel combustion": "  90.7",
+            "Sectors": {
+                "Other energy industry own use": "  31.7",
+                "Manufacturing industries and construction": "  27.4",
+                "Transport": {
+                    "Total": "  11.6",
+                    "Road": "  11.6"
+                },
+                "Residential": {
+                    "Total": "  12.5"
+                },
+                "Commercial and public services": "  5.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Saudi Arabia",
+            "Total CO2 emissions from fuel combustion": "  532.9",
+            "Sectors": {
+                "Other energy industry own use": "  42.0",
+                "Manufacturing industries and construction": "  135.5",
+                "Transport": {
+                    "Total": "  137.8",
+                    "Road": "  135.3"
+                },
+                "Residential": {
+                    "Total": "  115.9"
+                },
+                "Commercial and public services": "  97.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Syrian Arab Republic ",
+            "Total CO2 emissions from fuel combustion": "  27.5",
+            "Sectors": {
+                "Other energy industry own use": "  0.6",
+                "Manufacturing industries and construction": "  8.0",
+                "Transport": {
+                    "Total": "  5.0",
+                    "Road": "  4.7"
+                },
+                "Residential": {
+                    "Total": "  9.4"
+                },
+                "Commercial and public services": "  2.1"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "United Arab Emirates",
+            "Total CO2 emissions from fuel combustion": "  173.6",
+            "Sectors": {
+                "Other energy industry own use": "  2.4",
+                "Manufacturing industries and construction": "  80.7",
+                "Transport": {
+                    "Total": "  35.6",
+                    "Road": "  34.4"
+                },
+                "Residential": {
+                    "Total": "  19.9"
+                },
+                "Commercial and public services": "  32.6"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Yemen",
+            "Total CO2 emissions from fuel combustion": "  8.2",
+            "Sectors": {
+                "Other energy industry own use": "  0.3",
+                "Manufacturing industries and construction": "  1.1",
+                "Transport": {
+                    "Total": "  2.7",
+                    "Road": "  2.7"
+                },
+                "Residential": {
+                    "Total": "  3.5"
+                },
+                "Commercial and public services": "  0.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Middle East",
+            "Total CO2 emissions from fuel combustion": "  1933.7",
+            "Sectors": {
+                "Other energy industry own use": "  180.1",
+                "Manufacturing industries and construction": "  540.7",
+                "Transport": {
+                    "Total": "  424.7",
+                    "Road": "  418.1"
+                },
+                "Residential": {
+                    "Total": "  460.0"
+                },
+                "Commercial and public services": "  251.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "IEA/Accession/Association",
+            "Total CO2 emissions from fuel combustion": " 2 6259.3",
+            "Sectors": {
+                "Other energy industry own use": "  1778.0",
+                "Manufacturing industries and construction": " 1 0716.4",
+                "Transport": {
+                    "Total": "  5473.3",
+                    "Road": "  4704.8"
+                },
+                "Residential": {
+                    "Total": "  4242.5"
+                },
+                "Commercial and public services": "  2452.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "European Union - 27",
+            "Total CO2 emissions from fuel combustion": "  2517.1",
+            "Sectors": {
+                "Other energy industry own use": "  164.7",
+                "Manufacturing industries and construction": "  636.5",
+                "Transport": {
+                    "Total": "  797.0",
+                    "Road": "  745.3"
+                },
+                "Residential": {
+                    "Total": "  511.7"
+                },
+                "Commercial and public services": "  325.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "G7",
+            "Total CO2 emissions from fuel combustion": "  7619.3",
+            "Sectors": {
+                "Other energy industry own use": "  565.1",
+                "Manufacturing industries and construction": "  1587.2",
+                "Transport": {
+                    "Total": "  2552.0",
+                    "Road": "  2175.2"
+                },
+                "Residential": {
+                    "Total": "  1477.9"
+                },
+                "Commercial and public services": "  1201.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "G8",
+            "Total CO2 emissions from fuel combustion": "  9242.5",
+            "Sectors": {
+                "Other energy industry own use": "  711.3",
+                "Manufacturing industries and construction": "  2153.7",
+                "Transport": {
+                    "Total": "  2854.0",
+                    "Road": "  2342.3"
+                },
+                "Residential": {
+                    "Total": "  1903.7"
+                },
+                "Commercial and public services": "  1348.3"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "G20",
+            "Total CO2 emissions from fuel combustion": " 2 8424.4",
+            "Sectors": {
+                "Other energy industry own use": "  1957.2",
+                "Manufacturing industries and construction": " 1 1345.0",
+                "Transport": {
+                    "Total": "  5989.7",
+                    "Road": "  5088.5"
+                },
+                "Residential": {
+                    "Total": "  4826.0"
+                },
+                "Commercial and public services": "  2681.0"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Africa",
+            "Total CO2 emissions from fuel combustion": "  1262.3",
+            "Sectors": {
+                "Other energy industry own use": "  114.4",
+                "Manufacturing industries and construction": "  354.0",
+                "Transport": {
+                    "Total": "  388.1",
+                    "Road": "  368.1"
+                },
+                "Residential": {
+                    "Total": "  243.3"
+                },
+                "Commercial and public services": "  103.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Americas",
+            "Total CO2 emissions from fuel combustion": "  6603.0",
+            "Sectors": {
+                "Other energy industry own use": "  556.0",
+                "Manufacturing industries and construction": "  1290.2",
+                "Transport": {
+                    "Total": "  2473.8",
+                    "Road": "  2120.3"
+                },
+                "Residential": {
+                    "Total": "  1151.0"
+                },
+                "Commercial and public services": "  888.5"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Asia",
+            "Total CO2 emissions from fuel combustion": " 1 9976.7",
+            "Sectors": {
+                "Other energy industry own use": "  1200.3",
+                "Manufacturing industries and construction": "  9780.4",
+                "Transport": {
+                    "Total": "  2804.6",
+                    "Road": "  2429.8"
+                },
+                "Residential": {
+                    "Total": "  3218.1"
+                },
+                "Commercial and public services": "  1592.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Europe",
+            "Total CO2 emissions from fuel combustion": "  4760.7",
+            "Sectors": {
+                "Other energy industry own use": "  360.1",
+                "Manufacturing industries and construction": "  1330.6",
+                "Transport": {
+                    "Total": "  1270.4",
+                    "Road": "  1065.6"
+                },
+                "Residential": {
+                    "Total": "  1094.2"
+                },
+                "Commercial and public services": "  543.2"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "Oceania",
+            "Total CO2 emissions from fuel combustion": "  383.5",
+            "Sectors": {
+                "Other energy industry own use": "  56.3",
+                "Manufacturing industries and construction": "  100.4",
+                "Transport": {
+                    "Total": "  108.4",
+                    "Road": "  89.1"
+                },
+                "Residential": {
+                    "Total": "  57.8"
+                },
+                "Commercial and public services": "  50.4"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "* Includes emissions from own use in petroleum refining, the manufacture of solid fuels, coal mining, oil and gas extraction and other energy-producing industries. ",
+            "Total CO2 emissions from fuel combustion": '',
+            "Sectors": {
+                "Other energy industry own use": '',
+                "Manufacturing industries and construction": '',
+                "Transport": {
+                    "Total": '',
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "The original version of this file, as published by the International Energy Agency, is available free of charge on the IEA\u2019s website at:",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": "https://www.iea.org/subscribe-to-data-services/co2-emissions-statistics"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "\nYou are permitted to use the data in this file as set out in the IEA\u2019s terms and conditions here:  ",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": "https://www.iea.org/terms"
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        },
+        {
+            "Country": "This notice, and any copyright or sourcing statements in the file, must not be removed from this file.",
+            "Total CO2 emissions from fuel combustion": "",
+            "Sectors": {
+                "Other energy industry own use": "",
+                "Manufacturing industries and construction": "",
+                "Transport": {
+                    "Total": "",
+                    "Road": ""
+                },
+                "Residential": {
+                    "Total": ""
+                },
+                "Commercial and public services": ""
+            },
+            "Source": "IEA (2024), GHG Emissions from Energy"
+        }
+    
+
