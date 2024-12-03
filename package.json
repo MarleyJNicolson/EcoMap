@@ -10,11 +10,12 @@
   },
   "dependencies": {
     "leaflet": "^1.9.4",
-    "next": "15.0.3",
+    "next": "^15.0.3",
     "ol": "^10.2.1",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "sass": "^1.80.6"
+    "sass": "^1.81.0",
+    "sass-loader": "^16.0.3"
   },
   "devDependencies": {
     "@types/node": "^20",
